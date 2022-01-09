@@ -32,7 +32,7 @@ or you can use these symbols
 _ (Underscore)
 
 __Bold__
-
+.
 _Italic_
 # 6. Bullet point(Lists)
 
